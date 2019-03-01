@@ -1,0 +1,27 @@
+.container{
+  text-align: center;
+  align-content: center;
+  background-color: burlywood;
+  border-radius: circle;
+}
+
+.box{
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  display:  inline-block;
+  line-height: 80px;
+  border-radius: circle;
+  
+}
+
+.board{
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 320px;
+  color: aquamarine;
+  background-color: rgb(156, 96, 212);
+  text-align: center;
+  border-radius: circle;
+
+}
